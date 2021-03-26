@@ -23,5 +23,10 @@ You will also see any lint errors in the console.
 On the main page, you can click on the Captain Marvel image or on the menu link with the Captain Marvel icon to go to the comics.
 
 
+<<<<<<< HEAD
 ### Hugs
 Alas Jackson  
+=======
+### Hugs ;)
+Alas Jackson Moreno
+>>>>>>> 4ffa9a727f150412d5b2c0f204c395d98449d3d1
