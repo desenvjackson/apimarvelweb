@@ -24,4 +24,4 @@ On the main page, you can click on the Captain Marvel image or on the menu link 
 
 
 ### Hugs
-Alas Jackson Moreno
+Alas Jackson 
